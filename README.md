@@ -14,9 +14,16 @@
 
 <img src="IR5.jpg">
 
+<img src="IR4.jpg">
 
-- 필요에 따라 웹페이지에 Javascript,HTML 기반으로 텍스트,버튼을 구현하는 등의 기능을 수정하는 역할을 함.
 
+- amChart라는 웹페이지 그래프 제공 라이브러리, html,Javascript 기반 프로그래밍을 통해 웹 사이트에 그래프를 구현하는 역할을 했으며, 필요에 따라 웹페이지에 Javascript,HTML 기반으로 텍스트,버튼을 구현하는 등의 기능을 수정하는 역할을 함.
+
+<img src="IR1.jpg">
+
+<img src="IR2.jpg">
+
+<img src="IR3.jpg">
 
 
 
