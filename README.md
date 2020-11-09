@@ -2,7 +2,7 @@
 
 ## 개요 
 
-- 웹페이지 개발 근로 장학생 활동 
+- 웹페이지 개발 근로 장학생 활동 2020.6~2020.8
 - IR센터 웹 개발 프로젝트 From 글로벌플라자 IR센터(Institutional Research Center,KNU Global Plaza 306) 
 
 
@@ -28,7 +28,7 @@
 
 ## 내가 작업한 코드: 파이썬 코드
 
-[코드 폴더 링크]()
+[코드 폴더 링크](https://github.com/purang2/WebDevScholarship_GlobalPlaza/tree/main/MAKEJSONCODE)
  
 - 학교 데이터 보안 상, 스스로 만든 코드 외에 웹페이지 관련 코드는 올리지 못하였음.
 
